@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://SMGJ222.github.io</id>
+    <title>Blog of smgj</title>
+    <updated>2023-08-29T05:57:24.609Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://SMGJ222.github.io"/>
+    <link rel="self" href="https://SMGJ222.github.io/atom.xml"/>
+    <subtitle>不法常可</subtitle>
+    <logo>https://SMGJ222.github.io/images/avatar.png</logo>
+    <icon>https://SMGJ222.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Blog of smgj</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://SMGJ222.github.io/post/about/</id>
+        <link href="https://SMGJ222.github.io/post/about/">
+        </link>
+        <updated>2023-08-29T05:49:50.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>本人现就读于中国科学技术大学，21级计算机科学与技术系，坐标安徽合肥</p>
+<p>在云南昆明长大，可以给来旅游的朋友推荐美食哈哈哈</p>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>创建于2023/08/29，尝试写点<s>游记</s>生活随笔（确信</p>
+<p>暂时使用Gridea提供的博客框架，对小白很友好！😄</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<ul>
+<li>🏐排球</li>
+<li>🏸羽毛球</li>
+<li>✍️数独</li>
+<li>🔮花切（学习中）</li>
+<li>💻<s>拆</s>修电脑（学习中）</li>
+<li>购买手感很好的毛绒玩具！</li>
+</ul>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>📧E-MAIL:</p>
+<ul>
+<li>smgj@mail.ustc.edu.cn</li>
+<li>captchaac222@gmail.com</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
