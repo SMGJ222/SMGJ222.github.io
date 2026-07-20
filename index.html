@@ -54,6 +54,16 @@
 <meta name="twitter:title" content="Blogs">
 <meta name="twitter:description" content="Welcome to blogs of smgj222">
 <meta name="twitter:image" content="/images/avatar.png">
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').then(function () {
+      // 首次访问根路径时跳转到 /blog，之后 SW 激活后 / 返回学术主页
+      if (location.pathname === '/') {
+        location.replace('/blog');
+      }
+    });
+  }
+</script>
 </head>
 <body class="flavor-theme">
 
